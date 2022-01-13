@@ -1,4 +1,5 @@
 body{
+    min-width: 450px;
     width: auto;
     background-color: rgb(255, 233, 233);
 }
